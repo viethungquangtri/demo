@@ -1,14 +1,12 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "dienthoai":{
+    "iphone":["iphone 5","iphone 6"],
+    "samsung":["samsung 5","samsung 6"],
+    "oppo":["oppo 5","oppo 6"]
+  },
+  "maytinh":{
+    "maytinhban":["maytinhban 5","maytinhban 6"],
+    "laptop":["laptop 5","laptop 6"],
+    "macbook":["macbook 5","macbook 6"]
+  },
 }
